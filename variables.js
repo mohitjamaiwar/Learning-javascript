@@ -16,3 +16,4 @@ console.table({acountId, accountEmail, accountpasssword, accountCity, accountSta
 Prefer not to use var.
 because id issue in block scope and function scope.
 */
+
