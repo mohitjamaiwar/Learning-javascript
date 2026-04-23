@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 console.log("Variables in JavaScript:\n")
 const acountId = 1234567890 // this is a constant variable and cannot be changed
 let accountEmail = "mohit@google.com" // this is a let variable and can be changed
@@ -18,7 +17,7 @@ Prefer not to use var.
 because id issue in block scope and function scope.
 */
 
-=======
+
 console.log("Variables in JavaScript:\n")
 const acountId = 1234567890 // this is a constant variable and cannot be changed
 let accountEmail = "mohit@google.com" // this is a let variable and can be changed
@@ -37,4 +36,3 @@ console.table({acountId, accountEmail, accountpasssword, accountCity, accountSta
 Prefer not to use var.
 because id issue in block scope and function scope.
 */
->>>>>>> 61c17e66011cf7663aec285bc402325ce2331617
